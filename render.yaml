@@ -3,7 +3,7 @@ services:
     name: portfolio-hero-section
     env: static
     buildCommand: npm run build
-    publishPath: dist
+    publishDir: dist
     routes:
       - type: rewrite
         source: /*
