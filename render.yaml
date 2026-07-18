@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: portfolio-hero-section
+    name: sridharan-portfolio
     runtime: static
     buildCommand: npm run build
     staticPublishPath: dist
