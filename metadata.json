@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Hero Section",
+  "description": "A clean, minimalist portfolio hero section with a profile image, large typography, and simple navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
